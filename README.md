@@ -1,0 +1,2 @@
+# kaneJS
+kaneJS JavaScript Library
